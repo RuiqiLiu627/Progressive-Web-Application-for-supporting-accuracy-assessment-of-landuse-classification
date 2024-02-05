@@ -1,0 +1,10 @@
+ID; name_en; name_de; color
+ 1; 'settlement';   'Siedlung';     '#ff0000'
+ 2; 'industry';     'Industrie';    '#666666'
+ 3; 'gravel pit';   'Steinbruch';   '#999999'
+ 4; 'water';        'Wasser';       '#3333ff'
+ 5; 'forest';       'Wald';         '#006600'
+ 6; 'vineyard';     'Weinbau';      '#cc33cc'
+ 7; 'meadow';       'Wiese';        '#00cc00'
+ 8; 'field';        'Feld';         '#ffcc00'
+11; 'misc';         'Sonstiges';    '#ffcccc'

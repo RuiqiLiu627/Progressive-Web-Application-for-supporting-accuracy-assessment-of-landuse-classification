@@ -1,0 +1,28 @@
+{
+  "short_name": "Group A",
+  "name": "App for Group A",
+  "icons": [
+    {
+      "src": "A.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "group A.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "group A.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "workspace":"webdienste",
+  "layer":"testlayer",
+  "geoserver":"http://localhost:8090/geoserver/"
+}

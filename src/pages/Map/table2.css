@@ -1,0 +1,32 @@
+			table{
+				margin: 100px auto;
+				border-collapse: collapse;
+				border: 1px solid #000;
+				width: 800px;
+				text-align: center;
+			}
+			th{
+				border: 1px solid #000;
+				background-color: #ccc;
+				height: 60px;
+			}
+			th:nth-child(1){
+				width: 50px;
+			}
+			th:nth-child(2){
+				width: 50px;
+			}
+			th:nth-child(3){
+				width: 50px;
+			}
+			th:nth-child(4){
+				width: 50px;
+			}
+			th:nth-child(5){
+				width: 50px;
+			}
+			tr,td{
+				border: 1px solid #000;
+				height: 10px;
+				background-color: antiquewhite;
+			}

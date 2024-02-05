@@ -1,0 +1,5 @@
+1. Can not add the position again when returning from other pages to the main page.
+2. Click the "Query" button twice to get the drawer component.
+3. Cn not show higher levels of map tiles when offline, because only levels lower than 13 are added into the cache.
+4. Can not upload to Geoserver according to the manifest, for example, window.groupname which is written when getting manifest is not OK, directly using "Group B" is OK.
+5. Can show ground control points in QGIS. In the attribute table points are stored, but they can not be found on the map.
